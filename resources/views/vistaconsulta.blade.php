@@ -6,3 +6,4 @@
     <p>El autor {{$books->autor}}</p>
   
 @endsection
+

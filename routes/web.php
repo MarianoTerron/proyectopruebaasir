@@ -31,4 +31,5 @@ Route::get ('libros', 'libroscontroller@show');
 Route::get ('libros/{id}', 'libroscontroller@show');
     
 
+//prueba
 ?>
