@@ -26,3 +26,4 @@ class libroscontroller extends Controller
         return view('vistaconsulta',['books' => $libro]);
     }
 }
+
